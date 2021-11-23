@@ -5,7 +5,7 @@ import Main from './src/screens/main'
 export default function App() {
   return (
     <AppContainer>
-	<Main />
+	    <Main />
     </AppContainer>
   );
 }
